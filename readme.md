@@ -14,7 +14,9 @@ Why Developers are Leaving GitHub
 - **Legal Protections**: Benefiting from stricter European data protection regulations.
 - **Seamless Transition**: Offers a familiar Gitea-based interface that minimizes the learning curve.
 - **Community First**: Focuses on serving the developer community rather than monetizing user data.
- 
+
+[https://codeberg.org/olibf/dotbatch](https://codeberg.org/olibf/dotbatch)
+
 # dot net batch processing
 
 this is my attempt to implement java batch in dotnet
